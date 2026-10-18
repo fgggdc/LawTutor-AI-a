@@ -1,0 +1,6 @@
+{
+  "name": "LawTutor AI - আইন সহযোগী শিক্ষক",
+  "description": "আইন শিক্ষার্থীদের জন্য আইন ডিজিটাল শিক্ষক ও এআই ভয়েস এজেন্ট (২০২৬ মডেল) - রিয়েল-টাইম দ্বিমুখী ভয়েস টিউটরিং, চ্যাটবট, বই ও ডকুমেন্টের ছবি বিশ্লেষণ, ধারা ও কেস ল এক্সপ্লেনার, ড্রাফটিং, মুট কোর্ট এবং মক ভাইভা প্র্যাকটিস।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
